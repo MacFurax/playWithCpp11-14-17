@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "auto_decltype", "auto_decltype\auto_decltype.vcxproj", "{1A8F8BD8-5577-4C06-94D0-5E62FA8C947C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lambda", "lambda\lambda.vcxproj", "{0AD9A245-142C-436A-9663-E0B0741943F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tuple", "tuple\tuple.vcxproj", "{4E2D67C7-AACF-4C0B-9815-607834D335ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{0AD9A245-142C-436A-9663-E0B0741943F7}.Release|x64.Build.0 = Release|x64
 		{0AD9A245-142C-436A-9663-E0B0741943F7}.Release|x86.ActiveCfg = Release|Win32
 		{0AD9A245-142C-436A-9663-E0B0741943F7}.Release|x86.Build.0 = Release|Win32
+		{4E2D67C7-AACF-4C0B-9815-607834D335ED}.Debug|x64.ActiveCfg = Debug|x64
+		{4E2D67C7-AACF-4C0B-9815-607834D335ED}.Debug|x64.Build.0 = Debug|x64
+		{4E2D67C7-AACF-4C0B-9815-607834D335ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E2D67C7-AACF-4C0B-9815-607834D335ED}.Debug|x86.Build.0 = Debug|Win32
+		{4E2D67C7-AACF-4C0B-9815-607834D335ED}.Release|x64.ActiveCfg = Release|x64
+		{4E2D67C7-AACF-4C0B-9815-607834D335ED}.Release|x64.Build.0 = Release|x64
+		{4E2D67C7-AACF-4C0B-9815-607834D335ED}.Release|x86.ActiveCfg = Release|Win32
+		{4E2D67C7-AACF-4C0B-9815-607834D335ED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
