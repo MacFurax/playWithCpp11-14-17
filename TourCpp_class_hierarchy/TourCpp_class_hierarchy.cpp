@@ -1,6 +1,13 @@
 // TourCpp_class_hierarchy.cpp : Defines the entry point for the console application.
 //
 
+// A Tour of C++ 
+//
+// Code to experiment with A Tour of C++ Book from Bjarne Stroustrup
+//
+// Classes Hierarchies
+//
+
 #include "stdafx.h"
 
 using namespace std;
@@ -110,7 +117,7 @@ int main()
 	DC.methodA();
 	DC.methodB();
 
-	cout << ">> Dynamic cast to base* \n";
+	cout << ">> Dynamic cast to base* (is it of type base ?) \n";
 	Base* b = dynamic_cast<Base*>(&DC);
 	if (b)
 	{
