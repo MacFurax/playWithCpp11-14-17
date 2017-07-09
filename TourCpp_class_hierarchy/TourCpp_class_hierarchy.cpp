@@ -5,7 +5,7 @@
 //
 // Code to experiment with A Tour of C++ Book from Bjarne Stroustrup
 //
-// Classes Hierarchies
+// §4.5 Classes Hierarchies
 //
 
 #include "stdafx.h"
