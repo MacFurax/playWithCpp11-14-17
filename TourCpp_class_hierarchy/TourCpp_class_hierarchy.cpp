@@ -129,6 +129,6 @@ int main()
 	cout << ">> Dynamic cast to base* \n";
 		
 
-    return 0;
+  return 0;
 }
 
