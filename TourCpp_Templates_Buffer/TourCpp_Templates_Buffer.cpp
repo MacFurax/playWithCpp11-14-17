@@ -19,6 +19,8 @@ int main()
 
   cout << "Buf size " << buf.size() << "\n";
 
+  buf.data[0] = 155;
+
   return 0;
 }
 
