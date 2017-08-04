@@ -14,4 +14,8 @@
 
 // TODO: reference additional headers your program requires here
 #include <iostream>
-#include<string>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <random>
+#include <memory>
